@@ -38,7 +38,7 @@ func TestSumFunc(t *testing.T) {
 		b int
 	}
 	// описывает структуру тестовых данных и сами тесты
-	// gehevgevgev
+	// test comment
 	tests := []struct {
 		name   string // название теста
 		args   args   // аргументы
